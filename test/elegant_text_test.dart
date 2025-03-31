@@ -1,4 +1,4 @@
-import 'package:document_slot_bubblegum/src/elegant_text.dart';
+import 'package:elegant_fragment_copperframe/elegant_fragment_copperframe.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

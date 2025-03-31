@@ -1,0 +1,29 @@
+name: elegant_fragment_copperframe
+description: "For text that speaks volumes elegantly"
+version: 0.3.0
+homepage: https://github.com/flarebyte/elegant_fragment_copperframe
+
+publish_to: none
+
+environment:
+  sdk: ^3.4.4
+  flutter: "3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  grand_copperframe:
+    git:
+      url: https://github.com/flarebyte/grand_copperframe.git
+      ref: v0.3.0
+  slotboard_copperframe:
+    git:
+      url: https://github.com/flarebyte/slotboard_copperframe.git
+      ref: v0.3.0
+  args: ^2.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
