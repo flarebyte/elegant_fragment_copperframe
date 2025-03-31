@@ -26,7 +26,7 @@
 /// This widget provides an extensible and user-friendly solution for viewing and
 /// navigating various types of documents in a consistent and accessible manner.
 
-library document_slot_bubblegum;
+library elegant_fragment_copperframe;
 
 export 'src/elegant_text.dart';
 export 'src/options_parser.dart';
